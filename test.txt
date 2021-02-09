@@ -1,0 +1,8 @@
+a850e3d002fc2e701ad31aa0e5fd1f24bd210f29  data/bible.data
+153573f66a6c3b2c54250aafb195305af95cf902  data/ecoli.data
+700645d6493ac54c345d1c4d0db36a1756ea6fbf  data/haiku.data
+4f72771fe46b38cdc032490b85dbac6a43fd2132  data/hamlet.data
+8b0627910e2d518aadb02e3f3dcd28c86291637b  data/neg.data
+0bf4860eaed6956fff0eabec47d0333cb5ebbe57  data/sahih.data
+42c00c23487cfba76c37fc812946ee6ccd39e9d9  data/words.data
+bfe55c35048779fbb267c13e0960e75e05057f04  data/world192.data
